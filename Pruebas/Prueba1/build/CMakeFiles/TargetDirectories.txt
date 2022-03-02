@@ -1,0 +1,3 @@
+/home/franhisco/Desktop/openGLudemy/Pruebas/Prueba1/build/CMakeFiles/rebuild_cache.dir
+/home/franhisco/Desktop/openGLudemy/Pruebas/Prueba1/build/CMakeFiles/edit_cache.dir
+/home/franhisco/Desktop/openGLudemy/Pruebas/Prueba1/build/CMakeFiles/OpenGLExample.dir

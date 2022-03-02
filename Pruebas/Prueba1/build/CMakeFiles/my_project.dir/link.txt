@@ -1,0 +1,1 @@
+/usr/bin/g++-5      CMakeFiles/my_project.dir/src/main.cpp.o  -o my_project -rdynamic -lGLFW 
