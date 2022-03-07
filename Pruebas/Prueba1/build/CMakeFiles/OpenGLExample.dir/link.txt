@@ -1,1 +1,1 @@
-/usr/bin/g++-5      CMakeFiles/OpenGLExample.dir/src/main.cpp.o  -o OpenGLExample -rdynamic ../libs/GLFW/libglfw.so -Wl,-rpath,/home/franhisco/Desktop/openGLudemy/Pruebas/Prueba1/libs/GLFW 
+/bin/x86_64-linux-gnu-g++-9  -g  -rdynamic CMakeFiles/OpenGLExample.dir/src/main.cpp.o  -o OpenGLExample  -Wl,-rpath,/home/franhisco/gitRepo/cmakeStuffs/Pruebas/Prueba1/libs/GLFW ../libs/GLFW/libglfw.so -lOpenGL -lGLX -lGLU 

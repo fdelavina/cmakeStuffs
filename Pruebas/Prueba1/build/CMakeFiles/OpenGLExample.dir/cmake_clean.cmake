@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/OpenGLExample.dir/src/main.cpp.o"
-  "OpenGLExample.pdb"
   "OpenGLExample"
+  "OpenGLExample.pdb"
 )
 
 # Per-language clean rules from dependency scanning.
