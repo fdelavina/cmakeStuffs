@@ -57,4 +57,6 @@ iostream
 -
 GLFW/glfw3.h
 /home/franhisco/gitRepo/cmakeStuffs/Pruebas/Prueba1/src/GLFW/glfw3.h
+sstream
+-
 
